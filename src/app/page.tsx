@@ -216,7 +216,7 @@ export default function HomePage() {
           <div className="flex flex-wrap items-center justify-center gap-3 mb-10 font-mono text-sm">
             <span className="flex items-center gap-2 bg-blue-900/40 border border-blue-500/50 text-blue-100 px-4 py-2 rounded-full">
               <Calendar size={16} className="text-blue-400" />
-              Sept 3 – Oct 1, 2026 (Coming Soon)
+              Sept 23 - Oct 17, 2026
             </span>
             <span className="flex items-center gap-2 bg-amber-900/40 border border-amber-500/50 text-amber-100 px-4 py-2 rounded-full">
               <Archive size={16} className="text-amber-400" />
@@ -385,7 +385,7 @@ export default function HomePage() {
             </h2>
             <p className="text-gray-300 font-mono text-base">
               <span className="text-green-400">{displaySessions.length}</span> sessions ·{" "}
-              <span className="text-green-400">4</span> weeks · Thu / Sat / Tue @ 18:00
+              <span className="text-green-400">4</span> weeks · Thu 18:00 theory · Sat 10:00 workshop
             </p>
           </div>
 
